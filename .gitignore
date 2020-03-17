@@ -41,3 +41,5 @@ Carthage/Build
 Network Trash Folder
 Temporary Items
 .apdisk
+/dsa_priv.pem
+/dsa_pub.pem
